@@ -5,5 +5,5 @@ ky-proxy-helper==0.1
 pymongo==3.9.0
 PySocks==1.7.1
 requests==2.22.0
-urllib3==1.25.3
+urllib3==1.26.5
 urlparser==0.1.2
